@@ -11,7 +11,7 @@ from telegram.ext import (
 BOT_TOKEN = "8514618354:AAFVRVtoJqua2mTG2q8Tv4jkg_v7x3lmwkw"
 # ====================================================
 
-APK_PATH = "𝐕𝐈𝐏_𝐏𝐀𝐍𝐍𝐄𝐋_𝐍𝐔𝐌𝐁𝐄𝐑_𝐇𝐀𝐂𝐊.apk"
+APK_PATH = "PANNEL HACK V-1.apk"
 VOICE_PATH = "VOICEHACK.ogg"
 
 logging.basicConfig(
@@ -57,10 +57,10 @@ async def approve_and_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
 (केवल प्रीमियम उपयोगकर्ताओं के लिए)💎
 (𝟏𝟎𝟎% नुकसान की भरपाई की गारंटी)🧬
 
-♻सहायता के लिए @himanshu_972
+♻सहायता के लिए @RDX_SONU_01
 
 🔴हैक का उपयोग कैसे करें
-https://t.me/+vBKqhKW2V6BhMGU1
+https://t.me/rajaindiaprediction/54
 """
             )
 
@@ -72,8 +72,9 @@ https://t.me/+vBKqhKW2V6BhMGU1
                 voice=voice,
                 caption="""
 🎙 सदस्य 9X गुना लाभ का प्रमाण 👇🏻
-https://t.me/rajaindiaprediction/54
+https://t.me/rajaindiaprediction/56
 
+♻सहायता के लिए @RDX_SONU_01
 लगातार नंबर पे नंबर जीतना 🤑♻👑
 """
             )
@@ -88,5 +89,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
